@@ -1,0 +1,12 @@
+[project]
+name = "genpark-event-sourcing-append-only-ledger-and-snapshot-replayer-skill"
+version = "1.0.0"
+description = "Manages append-only immutable event streams and rehydrates point-in-time state from periodic snapshot checkpoints"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
